@@ -39,8 +39,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift.
 ## PROGRAM
 ```
-Developed by: Sandhiya M
-RegisterNumber: 212224220086
+Developed by: BHAVITRA B
+RegisterNumber: 25012160
 ```
 ```.py
 module ex11(out,clk,rstn);
